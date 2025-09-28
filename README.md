@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...electronic
 - 🌱 I’m currently learning ...program
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...massiiislar@gmail.com
+- 📫 How to reach me ...maxislavkin@gmail.com
+
 
 <!---
 mslavkinr/mslavkinr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
